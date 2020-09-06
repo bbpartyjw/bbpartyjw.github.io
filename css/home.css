@@ -1,0 +1,15 @@
+body {
+	background-image: url("/assets/balloons.jpg");
+	background-color: #cccccc;
+}
+
+div > a.site-title {
+	font-weight: 800;
+	font-size: 40pt;
+}
+
+body .site-header {
+	border-bottom: none;
+	border-top: none;
+	padding-top: 10px;
+}
